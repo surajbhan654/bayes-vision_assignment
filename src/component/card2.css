@@ -1,0 +1,25 @@
+
+
+.card{
+    height: 475px;
+    text-align: center;
+    width: 320px;
+    margin: 2rem;
+}
+.card-img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-heading{
+    font-size: 24px;
+    margin: 0.4rem;
+    padding: 0.4rem;
+}
+
+.card-text{
+    font-size: 17px;
+    margin: 0.2rem;
+}
+

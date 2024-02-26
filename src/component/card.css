@@ -1,0 +1,28 @@
+
+
+.card{
+    text-align: center;
+    height: 480px;
+    width: 320px;
+    margin: 2rem;
+}
+.card:hover{
+    outline: 1px solid rgb(196, 194, 194);
+}
+.card-img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-heading{
+    font-size: 24px;
+    margin: 0.4rem;
+    padding: 0.4rem;
+}
+
+.card-text{
+    font-size: 17px;
+    margin: 0.2rem;
+}
+

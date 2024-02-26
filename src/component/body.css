@@ -1,0 +1,49 @@
+.card1-heading{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    padding-top : 3rem;
+    color: rgb(68, 174, 216);
+}
+
+.card6-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin : 0 auto;
+    
+}
+
+.card4-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin : 0 auto;
+}
+
+.contactUs{
+    height: 80px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(226, 123, 137);
+    padding-top : 8rem;
+}
+
+.email-container{
+    height: 80px;
+    font-size: 27px;
+    text-align: center;
+    padding-top : 3rem;
+}
+.copyright-container{
+    height: 100px;
+    width: 100%;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding-top: 5rem;
+    margin-top: 20px;
+    color: rgb(192, 181, 170);
+}

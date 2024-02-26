@@ -1,0 +1,30 @@
+
+.header{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 60px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 3rem;
+}
+.nav-items > ul{
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    
+    /* remove dots */
+    list-style-type: none; 
+}
+.nav-items > ul > li {
+    padding: 1px;
+    margin: 20px;
+    
+}
+.nav:hover{
+    border-bottom : 1px solid rgb(15, 18, 190);
+    cursor: pointer;
+}
